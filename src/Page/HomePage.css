@@ -1,0 +1,34 @@
+@keyframes anim {
+    0%{
+        opacity:0;
+        transform:translateX(-20px);
+        
+    }
+    100%{
+        opacity:1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes anim-md {
+    0%{
+        opacity:0;
+        transform:translateY(20px);
+        
+    }
+    100%{
+        opacity:1;
+        transform: translateY(0);
+    }
+}
+
+.animated-image {
+    animation:anim 3s ease;
+   
+  }
+
+.animated-image-md{
+    animation:anim-md 3s ease;
+}
+  
+  

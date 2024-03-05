@@ -1,0 +1,29 @@
+.react-tel-input .form-control {
+    position: relative;
+    font-size: 20px;
+    font-family: "Farsan",sans-serif;
+    letter-spacing: .01rem;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-left: 48px;
+    margin-left: 0;
+    background: #FFFFFF;
+    border: 1px solid #CACACA;
+    border-radius: 5px;
+    line-height: 25px;
+    height: 38px;
+    width: 100%;
+    outline: none;
+   
+    
+}
+
+
+.flag-dropdown {
+    background-color: white !important;
+    
+  }
+
+  .title{
+    font-family:"Lilita One",sans-serif;
+  }
