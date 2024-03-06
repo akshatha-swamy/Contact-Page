@@ -21,7 +21,7 @@ This project is a simple contact page built using React and Tailwind CSS. It all
 
 ## Demo
 
-[Add link to live demo if available]
+you can access my website through this link:"https://courageous-paprenjak-8a2480.netlify.app/"
 
 ## Installation
 
@@ -30,13 +30,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/akshatha-swamy/Contact-Page>
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd contact-page
+cd Contact-Page
 ```
 
 3. Install dependencies:
@@ -60,7 +60,7 @@ Access the application at `http://localhost:3000` in your browser.
 This project uses the Best Sheet API to integrate with Google Sheets. Make sure to obtain your API key and replace the placeholder in the code with your actual key.
 
 ```javascript
-// Example code snippet for API integration
+n
  const onSubmit=(e)=>{
         e.preventDefault(); // Prevent default form submission behavior
         axios.post(`https://sheet.best/api/sheets/3f06c792-8e25-43b5-afab-d81383d5be53`, { name, email, phone, message })
