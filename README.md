@@ -21,7 +21,7 @@ This project is a simple contact page built using React and Tailwind CSS. It all
 
 ## Demo
 
-you can access my website through this link:"https://courageous-paprenjak-8a2480.netlify.app/"
+you can access my website through this link:"https://65e8a43830aaec1e0c1fc1e3--starlit-sable-c4b7b5.netlify.app/"
 
 ## Installation
 
